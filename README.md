@@ -28,8 +28,8 @@ Document the codebase for better understanding
 Learn best practices for code organization and structure
 
 This collaborative approach helps me understand the code more deeply while maintaining clean, well-documented implementations.
-Current Features
 
+Current Features
 Game window with fixed dimensions
 Basic player movement with WASD keys
 Consistent frame rate (60 FPS)
